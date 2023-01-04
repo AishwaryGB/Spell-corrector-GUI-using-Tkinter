@@ -1,2 +1,3 @@
 # Spell-corrector-GUI-using-Tkinter
 Hi, I developed this project named spell corrector using GUI application including Tkinter and TextBlob libraries imported form standard python library. 
+'Spell Corrector' GUI application is an Graphical User Interface. In this program this allows to check the spelling of piece of text and correct any spelling errors. overall it is an useful tool for improving accuracy and readability of written documents. A Goal of Spell Corrector is to identify terms that are similar to word ie.entered. Alist of terms that can closely resembles the input word is shown by a spell corrector entry box.
